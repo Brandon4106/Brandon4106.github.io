@@ -7,14 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/brandon-smeltz/">LinkedIn</a> 
   <br>
-  <a href="https://docs.google.com/document/d/1BIOQTY2gkfEoMh-dkH_sTslUdJDv8r5hzTp9YgCpX_A/edit">Resume</a>  
+  <a href="https://docs.google.com/document/d/1BIOQTY2gkfEoMh-dkH_sTslUdJDv8r5hzTp9YgCpX_A/edit">Resume</a>   
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <a href="https://github.com/Brandon4106">GitHub</a>   
   
 theme: jekyll-theme-minimal
