@@ -4,9 +4,9 @@ I am a student athlete at Lehigh University in the Integrated Business and Engin
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/Brandon4106/Brandon4106.github.io/raw/master/images/Headshot.jpg" width="50%">
-</p>
+#<p style="text-align:center;">
+ # <img class="img-circle" src="https://github.com/Brandon4106/Brandon4106.github.io/raw/master/images/Headshot.jpg" width="50%">
+#</p>
 
 
 ---
