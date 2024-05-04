@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am a student athlete at Lehigh University in the Integrated Business and Engineering Honors Program. I am pursuing a dual major in mechanical engineering and finance with an interest in the Master's in Financial Engineering program at Lehigh. This summer I will be interning at Air Products where I will be a Financial Analyst in Global Growth Hydrogen. In my free time, I enjoy playing sports, spending time outdoors, and cooking.
 
 <!-- Upload your own photo and change the path -->
 
@@ -47,15 +45,16 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+I am interested in continuing my knowledge related to coding in order to optimize solutions and tackle industry problems. More specifically, I have interests in making the world a more sustainable place and figuring out solutions to do so as well as taking an in-depth analsis of sports to predict their results. 
 
-Sell yourself!
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Rowing
+- Hiking
+- Cooking
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
