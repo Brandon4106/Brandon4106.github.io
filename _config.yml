@@ -1,6 +1,7 @@
-title: John Doe # your name (or website title) here
+title: Brandon Smeltz # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > Mechanical Engineering & Finance Student at Lehigh University
+# your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
   <br>
   in _config.yml 
