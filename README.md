@@ -1,5 +1,9 @@
 ## Developer Portfolio Landing Page Template
 
+### Purpose 
+
+The goal of this assignment is to create a website showcasing all of the projects I have completed and learned from this semester.
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
