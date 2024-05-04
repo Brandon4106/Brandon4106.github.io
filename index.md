@@ -32,11 +32,11 @@ The main goal of this project is to train a model that can aid sports bettors wi
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](/pdf/FIN_377_Final_Project_Presentation.pdf)**_
 
 This is the presentation for the NBA sports betting season.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sports_Slides.png?raw=true"/>
 
 ---
 
