@@ -15,7 +15,7 @@ I am a student athlete at Lehigh University in the Integrated Business and Engin
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[S&P500 10-k Sentiment Analysis](Report)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
