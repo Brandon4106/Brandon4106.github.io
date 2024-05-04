@@ -17,27 +17,24 @@ I am a student athlete at Lehigh University in the Integrated Business and Engin
 
 _**[S&P500 10-k Sentiment Analysis](Report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+The objective of this project was to examine the relationship between the tone and sentiment expressed in S&P500 companies' 10-k filings and their subsequent stock returns. To achieve this, I used the provided stock return data and devised measures to determine stock performance following the release of these 10-k filings.
 
 <img src="images/Sentiment_Output.png?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+_**[Eventual team project](https://github.com/Brandon4106/Fin_377_Swish_Insights))**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The main goal of this project is to train a model that can aid sports bettors with bets for the NBA season. In particular, the model will do an in depth analysis of one team and try to make a profit on the spread for the games in March, the holdout set.
 
----
-
-_**[Eventual team project]([https://donbowen.github.io/teamproject/](https://github.com/Brandon4106/Fin_377_Swish_Insights))**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sports_Betting_Website.png?raw=true"/>
 
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
+
+This is the presentation for the NBA sports betting season.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
