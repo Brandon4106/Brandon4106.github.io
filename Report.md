@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---   
+
 # Brandon Smeltz: Fin 377 Midterm Project - S&P500 10-k Sentiment Analysis
 
 ## Project Summary
