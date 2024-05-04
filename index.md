@@ -13,6 +13,8 @@ I am a student athlete at Lehigh University in the Integrated Business and Engin
 
 ## Portfolio
 
+### 10-k Sentiment Analysis
+
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[S&P500 10-k Sentiment Analysis](Report.md)**_
@@ -24,7 +26,9 @@ The objective of this project was to examine the relationship between the tone a
 ---
 
 
-_**[Eventual team project](https://github.com/Brandon4106/Fin_377_Swish_Insights))**_
+### Predictive Sports Model
+
+_**[Repository](https://github.com/Brandon4106/Fin_377_Swish_Insights))**_
 
 The main goal of this project is to train a model that can aid sports bettors with bets for the NBA season. In particular, the model will do an in depth analysis of one team and try to make a profit on the spread for the games in March, the holdout set.
 
@@ -32,7 +36,7 @@ The main goal of this project is to train a model that can aid sports bettors wi
 
 ---
 
-_**[Some personal project](/pdf/FIN_377_Final_Project_Presentation.pdf)**_
+_**[Presentation](/pdf/FIN_377_Final_Project_Presentation.pdf)**_
 
 This is the presentation for the NBA sports betting season.
 
