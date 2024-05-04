@@ -15,11 +15,11 @@ I am a student athlete at Lehigh University in the Integrated Business and Engin
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[S&P500 10-k Sentiment Analysis](Report)**_
+_**[S&P500 10-k Sentiment Analysis](Report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sentiment_Output.png?raw=true"/>
 
 ---
 
@@ -31,7 +31,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project]([https://donbowen.github.io/teamproject/](https://github.com/Brandon4106/Fin_377_Swish_Insights))**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
