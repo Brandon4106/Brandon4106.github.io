@@ -2,10 +2,10 @@
 
 I am a student athlete at Lehigh University in the Integrated Business and Engineering Honors Program. I am pursuing a dual major in mechanical engineering and finance with an interest in the Master's in Financial Engineering program at Lehigh. This summer I will be interning at Air Products where I will be a Financial Analyst in Global Growth Hydrogen. In my free time, I enjoy playing sports, spending time outdoors, and cooking.
 
-<!-- Upload your own photo and change the path -->
+#<!-- Upload your own photo and change the path -->
 
 #<p style="text-align:center;">
- # <img class="img-circle" src="https://github.com/Brandon4106/Brandon4106.github.io/raw/master/images/Headshot.jpg" width="50%">
+# <img class="img-circle" src="https://github.com/Brandon4106/Brandon4106.github.io/raw/master/images/Headshot.jpg" width="50%">
 #</p>
 
 
